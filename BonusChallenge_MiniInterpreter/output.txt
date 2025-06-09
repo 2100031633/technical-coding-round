@@ -1,0 +1,4 @@
+Assigned x = 10
+Assigned y = 15
+YES
+WRONG

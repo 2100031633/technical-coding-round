@@ -1,0 +1,5 @@
+let x = 10
+let y = x + 5
+if y > 12 then print YES else print NO
+if x == 9 then print OK else print WRONG
+exit
